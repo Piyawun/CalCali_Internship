@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cal_orange">#F8A340</color>
+    <color name="cal_blue">#0F75BD</color>
+    <color name="cal_white">#FFFFFF</color>
+    <color name="cal_gray">#9B9895</color>
+</resources>
